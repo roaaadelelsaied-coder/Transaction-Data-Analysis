@@ -29,10 +29,10 @@ and merchant type.
     pip install pandas matplotlib seaborn pyodbc
     ```
 
-3.  Run the main script (example):
+3.  Run the main script :
 
     ``` bash
-    python main.py
+   jupyter notebook transactions.ipynb
     ```
 
 4.  The analysis results and visualizations will be displayed.
